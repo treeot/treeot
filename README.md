@@ -5,11 +5,6 @@
 <h1 align="center">Hi, I'm Benson 👋</h1>
 
 <p align="center">
-  Full-stack developer. I build point-of-sale and back-office software,<br/>
-  web services and APIs, and the Discord infrastructure that keeps communities running.
-</p>
-
-<p align="center">
   <a href="https://treeot.dev"><img src="https://img.shields.io/badge/treeot.dev-1568d5?style=flat-square&logo=googlechrome&logoColor=white" alt="treeot.dev"/></a>
   <a href="https://treeot.dev/projects"><img src="https://img.shields.io/badge/Projects-5a6372?style=flat-square&logo=github&logoColor=white" alt="Projects"/></a>
   <a href="https://treeot.dev/contact"><img src="https://img.shields.io/badge/Contact-4fa3f8?style=flat-square&logo=maildotru&logoColor=white" alt="Contact"/></a>
