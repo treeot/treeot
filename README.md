@@ -14,10 +14,11 @@
 
 ### 🛠️ Working on
 
-- **[RunnerRadar](https://runnerradar.com)**: cross country and track & field analytics. I'm the main developer.
-- **[GuildLB](https://guildlb.com)**: a Hypixel SkyBlock leaderboard built from Go and Rust services behind one API.
-- **[CalendarBar](https://github.com/treeot/CalendarBar)**: a macOS menu bar app for your next meeting. Open source.
-- **Vela** and **OpenDesk**: self-hosted observability and an encrypted remote desktop. Open source soon.
+- **[RunnerRadar](https://runnerradar.com)**: cross country and track & field analytics. Coaches plan race lineups and track meet results, athletes follow their progress, and fans follow teams through the season.
+- **[GuildLB](https://guildlb.com)**: a Hypixel SkyBlock leaderboard that ranks guilds and players by SkyBlock level, skills, slayer, catacombs, and networth. Four Go and Rust services sit behind one API, and a Rust proxy verifies Minecraft account ownership before stats count.
+- **[CalendarBar](https://github.com/treeot/CalendarBar)**: a macOS menu bar app that shows what's on your calendar now and what's next. No third-party dependencies and no network access, so your calendar data stays on your Mac.
+- **Vela**: analytics, error tracking, tracing, logs, metrics, uptime, and infra monitoring in one self-hosted binary. Embedded database and dashboard, under 50MB of RAM.
+- **OpenDesk**: a self-hosted, end-to-end encrypted alternative to AnyDesk and TeamViewer. Peers try a direct UDP path first, then fall back to a relay you host that only sees encrypted bytes.
 
 ### 🧰 Stack
 
