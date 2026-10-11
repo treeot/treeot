@@ -16,9 +16,10 @@
 
 - **[RunnerRadar](https://runnerradar.com)**: cross country and track & field analytics. Coaches plan race lineups and track meet results, athletes follow their progress, and fans follow teams through the season.
 - **[GuildLB](https://guildlb.com)**: a Hypixel SkyBlock leaderboard that ranks guilds and players by SkyBlock level, skills, slayer, catacombs, and networth. Four Go and Rust services sit behind one API, and a Rust proxy verifies Minecraft account ownership before stats count.
+- **[hypixel-chat-bridge](https://github.com/treeot/hypixel-chat-bridge)**: a two-way bridge between Hypixel guild chat and Discord. One process serves several guilds with optional cross-guild relay, a ban-safety filter checks everything the bot says, and setup happens in Discord with `/setup`. An optional web dashboard with Discord login lets staff read and send chat, manage guild members, and change settings.
 - **[CalendarBar](https://github.com/treeot/CalendarBar)**: a macOS menu bar app that shows what's on your calendar now and what's next. No third-party dependencies and no network access, so your calendar data stays on your Mac.
 - **Vela**: analytics, error tracking, tracing, logs, metrics, uptime, and infra monitoring in one self-hosted binary. Embedded database and dashboard, under 50MB of RAM.
-- **OpenDesk**: a self-hosted, end-to-end encrypted alternative to AnyDesk and TeamViewer. Peers try a direct UDP path first, then fall back to a relay you host that only sees encrypted bytes.
+- **[OpenDesk](https://github.com/treeot/opendesk)**: a self-hosted, end-to-end encrypted alternative to AnyDesk and TeamViewer. Peers try a direct UDP path first, then fall back to a relay you host that only sees encrypted bytes.
 
 ### 🧰 Stack
 
